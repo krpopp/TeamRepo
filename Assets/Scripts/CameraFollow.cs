@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
 {
+    // here is another change!
 
     //this is also a change! cool! cool change!
 
