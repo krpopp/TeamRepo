@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
 {
+
+    //this is also a change! cool! cool change!
+
+
     //Hey What's up!? This is my change! Hopefully you can see it when I push!! :)
     public Transform followTransform;
     public BoxCollider2D worldBounds;
