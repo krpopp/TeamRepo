@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {
-
+    //I'm making big changes to the player move script and I'm gonna put them in a branch
     public float speed;
     public float jumpHeight;
     public float gravityMultiplier;
